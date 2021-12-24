@@ -1,6 +1,6 @@
 # 👋 Hey there!   I’m Srajan  
 
-👀 I’m interested in Backend development(Django), RSET APIs and Cloud computing. 
+👀 I’m interested in Backend development(Django), REST APIs and Cloud computing. 
 
 🌱 I’m currently learning Backend-dev. and and Cloud computing.
 
