@@ -1,4 +1,7 @@
-# 👋 Hey there!   I’m Srajan  
+## 👋 Hey there!   I’m Srajan  
+
+
+### 👨‍💻 About me 
 
 👀 I’m interested in Backend development(Django), REST APIs and Cloud computing. 
 
