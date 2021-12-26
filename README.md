@@ -1,5 +1,4 @@
-## 👋 Hey there!   I’m Srajan . . .
-
+## Hey there! 👋 I’m Srajan . . .
 
 ### 👨‍💻 About me 
 
