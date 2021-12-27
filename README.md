@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me 
 
-👀 I’m interested in Backend development(Django), REST APIs and Cloud computing. 
+👀 Things I got in my Arsenal - Django, REST APIs, Python and Cloud Computing. 
 
 🌱 I’m currently learning Backend-dev. and and Cloud computing.
 
